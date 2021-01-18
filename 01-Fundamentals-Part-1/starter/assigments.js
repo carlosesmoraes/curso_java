@@ -16,3 +16,12 @@ console.log(typeof country);
 console.log(typeof language);
 
 //Assigment 3: let, const and var
+/*
+let idioma = 'português'
+const motherLanguage = 'português';
+idioma = 'english';
+motherLanguage = 'espanhol';
+console.log(idioma);
+*/
+
+//Assigment 4: Bsic Operators
