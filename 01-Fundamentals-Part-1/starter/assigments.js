@@ -25,3 +25,12 @@ console.log(idioma);
 */
 
 //Assigment 4: Bsic Operators
+console.log(population / 2);
+population++;
+console.log(population);
+const populationFinand = 6000000
+console.log(population > populationFinand);
+const averagePopulation = 33000000;
+console.log(population < averagePopulation);
+const description = 'Portugal is in Europe, and its 11 million people speak portuguese';
+console.log(description);
