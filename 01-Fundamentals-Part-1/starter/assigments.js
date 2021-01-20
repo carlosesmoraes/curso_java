@@ -39,3 +39,11 @@ console.log(description);
 language = `portuguese`
 const description1 = `${country} is in ${continent}, and its ${population} million people speak ${language}`;
 console.log(description1);
+
+//Assigment 6: Taking DEcisions: If/Else
+const population6 = 34
+if (population > 33) {
+    console.log(`${country}'s population is above average`);
+} else {
+    console.log(`${country}'s population is ${33 - population6} million below average`);
+}
