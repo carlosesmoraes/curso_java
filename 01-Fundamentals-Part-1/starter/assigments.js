@@ -34,3 +34,8 @@ const averagePopulation = 33000000;
 console.log(population < averagePopulation);
 const description = 'Portugal is in Europe, and its 11 million people speak portuguese';
 console.log(description);
+
+//Assigment 5:Strings and Template Literals
+language = `portuguese`
+const description1 = `${country} is in ${continent}, and its ${population} million people speak ${language}`;
+console.log(description1);
