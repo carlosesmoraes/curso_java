@@ -23,7 +23,7 @@ if (markBMI > johnBMI) {
     console.log(`John's BMI (${johnBMI.toFixed(1)}) is higher than Mark's (${markBMI.toFixed(1)})`)
 }
 */
-//Challe   nge 3
+//Challenge 3
 const dolphinScore1 = 96;
 const dolphinScore2 = 97;
 const dolphinScore3 = 98;
