@@ -1,3 +1,4 @@
+/*
 // Assigment 1: Values and Variables
 
 let country = 'Brasil';
@@ -25,6 +26,7 @@ console.log(idioma);
 */
 
 //Assigment 4: Bsic Operators
+/*
 console.log(population / 2);
 population++;
 console.log(population);
@@ -53,3 +55,4 @@ console.log('19' - '13' + '17');
 console.log('19' - '13' + 17);
 console.log('123' < 57);
 console.log(5 + 6 + '4' + 9 - 4 - 2);
+*/
