@@ -24,6 +24,7 @@ if (markBMI > johnBMI) {
 }
 */
 //Challenge 3
+/*
 const dolphinScore1 = 96;
 const dolphinScore2 = 97;
 const dolphinScore3 = 98;
@@ -45,3 +46,12 @@ if ((dolphinAvg > koalaAvg) && (dolphinAvg >= 100 || koalaAvg >= 100)) {
 } else {
     console.log(`There is no winner!`)
 }
+*/
+//Challenge 4
+const bill = 430;
+let tip;
+bill <= 50 && bill >= 300 ? tip = 0.2 * bill : tip = 0.15 * bill;
+let value = tip + bill;
+console.log(`The bill was ` + bill + `, the tip was ` + tip + `, and the total value ` + value);
+
+
