@@ -50,7 +50,7 @@ if ((dolphinAvg > koalaAvg) && (dolphinAvg >= 100 || koalaAvg >= 100)) {
 //Challenge 4
 const bill = 430;
 let tip;
-bill <= 50 && bill >= 300 ? tip = 0.2 * bill : tip = 0.15 * bill;
+bill <= 50 && bill >= 300 ? tip = 0.15 * bill : tip = 0.20 * bill;
 let value = tip + bill;
 console.log(`The bill was ` + bill + `, the tip was ` + tip + `, and the total value ` + value);
 
