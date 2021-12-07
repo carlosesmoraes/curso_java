@@ -36,6 +36,7 @@ console.log(totals);
 
 //Challenge 3
 
+/*
 const mark = {
     fullName: 'Mark Miller',
     mass: 78,
@@ -59,3 +60,5 @@ mark.calcBMI();
 john.calcBMI();
 
 console.log(mark.bmi, john.bmi)
+*/
+
